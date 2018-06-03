@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1505949013 source:c:\users\andrei\desktop\c++\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1506974643 source:c:\users\andrei\desktop\c++\c++\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<algorithm>
+	<vector>
+
+1507057984 source:c:\users\andrei\desktop\header\c++\main.cpp
+	"functions.h"
+
+1506978314 c:\users\andrei\desktop\header\c++\header.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<algorithm>
+	<vector>
+
+1506977757 source:c:\users\andrei\desktop\header\c++\basic_functions.cpp
+	"header.h"
+
+1507057294 source:c:\users\andrei\desktop\header\c++\class_functions.cpp
+	"class_header.h"
+
+1507057501 c:\users\andrei\desktop\header\c++\class_header.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<algorithm>
+	<vector>
+
+1507057928 source:c:\users\andrei\desktop\header\c++\functions.cpp
+	"functions.h"
+
+1507057903 c:\users\andrei\desktop\header\c++\functions.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<algorithm>
+	<vector>
+
+1507057911 c:\users\andrei\desktop\header\c++\class.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<algorithm>
+	<vector>
+
